@@ -1,5 +1,5 @@
 {
-  "name": "egg-kafka-node",
+  "name": "@dengzhaofun/egg-kafka-node",
   "version": "1.0.7",
   "description": "kafka plugin for egg.js",
   "eggPlugin": {
@@ -55,12 +55,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JohnApache/egg-kafka-node.git"
+    "url": "git+https://github.com/dengzhaofun/egg-kafka-node.git"
   },
   "bugs": {
-    "url": "https://github.com/JohnApache/egg-kafka-node/issues"
+    "url": "https://github.com/dengzhaofun/egg-kafka-node/issues"
   },
-  "homepage": "https://github.com/JohnApache/egg-kafka-node#readme",
-  "author": "JohnApache",
+  "homepage": "https://github.com/dengzhaofun/egg-kafka-node#readme",
+  "author": "dengzhaofun",
   "license": "MIT"
 }
